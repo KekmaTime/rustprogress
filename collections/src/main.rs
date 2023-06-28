@@ -22,4 +22,16 @@ fn main() {
         println!("{}", data);
     }
 
+    let i = vector.pop();
+
+    match i {
+        Some(d) => println!("{}", d),
+        None => println!("Not found"),
+    }
+
+    let result = vector.contains(&3);
+    let resutl2 = vector.contains(&99);
+
+    println!("{}", result);
+    println!("{}", resutl2);
 }
