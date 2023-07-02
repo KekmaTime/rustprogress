@@ -7,7 +7,7 @@ rust files. learning repo only
 - [x] Variables
 - [x] Collections
 - [x] Operators
-- [ ] Control Flow
+- [x] Control Flow
 - [ ] Ownership & Borrowing
 - [ ] Data Structures & Traits
 - [ ] Error Handling
